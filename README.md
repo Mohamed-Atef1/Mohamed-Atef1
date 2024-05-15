@@ -13,7 +13,7 @@
 
 - 🏢 I'm a Data Analyst and Business Analyst 
 - 👨‍💻 As Self-learner , I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Excel , SQL and Power Bi , or anything related to Data Analysis.
+- 💬 Ask me about my experience with Excel , SQL , Power Bi and Python , or anything related to Data Analysis.
 - ⚡ Fun Fact: I'm a Typing enthusiast and my day starts with Typing on EdClub and ends with Typing my diary.
 
 
